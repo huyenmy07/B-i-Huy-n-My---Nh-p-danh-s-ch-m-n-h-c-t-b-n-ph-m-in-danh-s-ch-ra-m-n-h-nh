@@ -1,1 +1,1 @@
-# B-i-Huy-n-My---Nh-p-danh-s-ch-m-n-h-c-t-b-n-ph-m-in-danh-s-ch-ra-m-n-h-nh
+#Nhập danh sách môn học từ bàn phím và in danh sách ra màn hình 
